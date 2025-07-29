@@ -1,0 +1,14 @@
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\obj\Debug\net8.0\BasicsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\obj\Debug\net8.0\BasicsApp.AssemblyInfoInputs.cache
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\obj\Debug\net8.0\BasicsApp.AssemblyInfo.cs
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\obj\Debug\net8.0\BasicsApp.csproj.CoreCompileInputs.cache
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\bin\Debug\net8.0\BasicsApp.exe
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\bin\Debug\net8.0\BasicsApp.deps.json
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\bin\Debug\net8.0\BasicsApp.runtimeconfig.json
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\bin\Debug\net8.0\BasicsApp.dll
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\bin\Debug\net8.0\BasicsApp.pdb
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\obj\Debug\net8.0\BasicsApp.dll
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\obj\Debug\net8.0\refint\BasicsApp.dll
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\obj\Debug\net8.0\BasicsApp.pdb
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\obj\Debug\net8.0\BasicsApp.genruntimeconfig.cache
+D:\Skillset\Tech\Net Core\Basics\BasicsApp\obj\Debug\net8.0\ref\BasicsApp.dll
